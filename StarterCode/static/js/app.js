@@ -24,3 +24,4 @@ for (item of tableData) {
     tr.append(tdDate, tdCity, tdState, tdCountry, tdShape, tdDurationMinutes, tdComments);
     table.appendChild(tr);
 }
+
